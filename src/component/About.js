@@ -1,5 +1,4 @@
 import React from 'react';
-import {GrCertificate} from 'react-icons/gr';
 import {TbFileCertificate} from 'react-icons/tb';
 import {FaHome} from 'react-icons/fa';
 import aboutimg from '../images/about.png';
