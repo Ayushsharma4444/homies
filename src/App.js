@@ -11,7 +11,7 @@ import Request from './component/Request';
 import TechnologyInfo from './component/TechnologyInfo';
 import Booking from './component/Booking';
 import Navbar from './component/Navbar';
-import Newheader from './component/Newheader';
+
 function App() {
   return (
     <div className="App">
