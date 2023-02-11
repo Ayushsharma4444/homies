@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Dropdown from './component/Dropdown';
 import About from './component/About';
